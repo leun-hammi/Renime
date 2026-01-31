@@ -87,3 +87,10 @@
     border-color:white;
     border-radius:20px;
 }
+
+.image{
+    width:300px;
+    height:300px;
+    border-radius: 8px;
+}
+
